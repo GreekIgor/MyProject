@@ -1,0 +1,17 @@
+{
+"srv_host" : "127.0.0.1",
+"srv_port" : 3012,
+
+"host_fb" : "192.168.1.24",
+"port_fb" : 3050,
+"database_fb" : "A4ON_TEST",
+"dbuser_fb" : "SYSDBA",
+"dbpwd_fb" : "12345678",
+
+"redis_host" : "127.0.0.1",
+"redis_port" : 6379
+
+
+
+}
+
