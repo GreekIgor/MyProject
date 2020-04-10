@@ -18,6 +18,7 @@ console.log(conn);
          console.log(r);
          conn.disconnect();
      });
+	  // Hello kitty
 
 });
 
