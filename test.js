@@ -18,8 +18,13 @@ console.log(conn);
          console.log(r);
          conn.disconnect();
      });
+	  // Hello kitty
 
+<<<<<<< HEAD
 ////***
+=======
+
+>>>>>>> 9022bceaed9647e4d72cf665706d1e5dec6aaf05
 /// test proverka
 });
 
